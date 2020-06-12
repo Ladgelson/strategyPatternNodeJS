@@ -1,0 +1,20 @@
+{
+  "name": "strategyPatternNodeJS",
+  "version": "1.0.0",
+  "description": "Using a famous design pattern in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladgelson/strategyPatternNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladgelson/strategyPatternNodeJS/issues"
+  },
+  "homepage": "https://github.com/Ladgelson/strategyPatternNodeJS#readme"
+}
